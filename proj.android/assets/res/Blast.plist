@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>blast (01).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{165,139},{137,146}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{137,146}</string>
+			</dict>
+			<key>blast (02).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{165,0},{151,139}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{151,139}</string>
+			</dict>
+			<key>blast (03).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{388,0},{157,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{157,143}</string>
+			</dict>
+			<key>blast (04).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{333,562},{149,161}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{149,161}</string>
+			</dict>
+			<key>blast (05).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,562},{169,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{169,170}</string>
+			</dict>
+			<key>blast (06).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{221,732},{151,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{151,160}</string>
+			</dict>
+			<key>blast (07).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{372,723},{142,168}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{142,168}</string>
+			</dict>
+			<key>blast (08).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,420},{142,225}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{142,225}</string>
+			</dict>
+			<key>blast (09).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,835},{141,221}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{141,221}</string>
+			</dict>
+			<key>blast (10).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{165,212}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{165,212}</string>
+			</dict>
+			<key>blast (11).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,630},{164,205}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,205}</string>
+			</dict>
+			<key>blast (12).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,212},{165,208}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{165,208}</string>
+			</dict>
+			<key>blast (13).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,420},{163,210}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{163,210}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Blast.png</string>
+			<key>realTextureFileName</key>
+			<string>Blast.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

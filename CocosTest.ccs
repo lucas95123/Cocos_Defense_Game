@@ -1,0 +1,22 @@
+<Solution>
+  <PropertyGroup Name="CocosTest" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="StartScene.csd" Type="Scene" />
+        <Image Name="backMain.png" />
+        <Image Name="btnStart.png" />
+        <Image Name="btnStartPressed.png" />
+        <Image Name="SN11.png" />
+        <Image Name="SN11_01.png" />
+        <Image Name="SN11_03.png" />
+        <Image Name="Map_1.png" />
+        <Image Name="monster_1.png" />
+        <Project Name="Skeleton.csd" Type="Skeleton" />
+        <Image Name="shetou.png" />
+        <Image Name="sword.png" />
+        <Project Name="BattleScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
